@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>AI/ML Projects, IOT project , and Data Science applications.<br><br>👯 I’m looking to collaborate on<br>AI, Machine Learning, NLP, and innovative tech projects.<br><br>🤝 I’m looking for help with<br>Advanced Machine Learning, Open Source Contribution, and System Design.<br><br>🌱 I’m currently learning<br>Artificial Intelligence, Deep Learning, NLP, and Backend Development.<br><br>⚡ Fun fact<br>I secured 1st rank in academics while balancing coding, projects, and continuous learning.
 
 
